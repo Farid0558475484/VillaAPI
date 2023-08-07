@@ -31,3 +31,9 @@
 /Users/xamyak/Desktop/MagicVilla/MagicVilla_VillaAPI/obj/Debug/net7.0/MagicVilla_VillaAPI.pdb
 /Users/xamyak/Desktop/MagicVilla/MagicVilla_VillaAPI/obj/Debug/net7.0/MagicVilla_VillaAPI.genruntimeconfig.cache
 /Users/xamyak/Desktop/MagicVilla/MagicVilla_VillaAPI/obj/Debug/net7.0/ref/MagicVilla_VillaAPI.dll
+/Users/xamyak/Desktop/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/xamyak/Desktop/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/xamyak/Desktop/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Morcatko.AspNetCore.JsonMergePatch.Document.dll
+/Users/xamyak/Desktop/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Morcatko.AspNetCore.JsonMergePatch.NewtonsoftJson.dll
+/Users/xamyak/Desktop/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/xamyak/Desktop/MagicVilla/MagicVilla_VillaAPI/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
